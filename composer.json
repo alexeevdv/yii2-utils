@@ -1,0 +1,16 @@
+{
+    "name": "alexeevdv/yii2-utils",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-coding-standards": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Alekseev",
+            "email": "mail@alexeevdv.ru"
+        }
+    ]
+}
